@@ -96,3 +96,7 @@ The files included in this repository are licensed under the MIT license.
 [mui-text-field]: https://material-ui-next.com/api/text-field/
 [gh-pages]: https://teamwertarbyte.github.io/material-ui-chip-input/
 [legacy]: https://github.com/TeamWertarbyte/material-ui-chip-input/tree/legacy
+
+
+## Tech sterowniki development
+After each changes you need to run `npm run build` and push lib version
